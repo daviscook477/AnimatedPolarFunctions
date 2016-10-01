@@ -1,0 +1,2 @@
+This project makes colorful animations of polar functions. It basically renders what happens as you alter the value of theta for each point along the
+circle from 0-360 degrees over time. And it adds lots of neat looking colors. Resulting Gifs saved at: [http://imgur.com/a/gb8Gd]
